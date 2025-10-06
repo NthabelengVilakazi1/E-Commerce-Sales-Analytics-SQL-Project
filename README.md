@@ -237,4 +237,4 @@ WHERE total_price <> quantity * unit_price;
 ## 9. License & Contact
 
 Open-sourced under MIT License.
-For questions or collaboration, contact: **[Your Name] | [Your Email/LinkedIn]**
+For questions or collaboration, contact: **Nthabeleng Vilakazi | www.linkedin.com/in/nthabelengvilakazi**
